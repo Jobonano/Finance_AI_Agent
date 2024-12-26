@@ -1,4 +1,4 @@
-# AI-Powered Bookkeeping Agent
+# AI-Powered Finance Agent
 
 A Python-based bookkeeping system that leverages OpenAI's GPT model to intelligently categorize transactions. This application combines traditional bookkeeping functionality with AI-powered categorization for more accurate expense tracking.
 
@@ -21,8 +21,8 @@ A Python-based bookkeeping system that leverages OpenAI's GPT model to intellige
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/jobonano/ai-bookkeeping-agent
-cd ai-bookkeeping-agent
+git clone https://github.com/jobonano/ai-finance-agent
+cd ai-finance-agent
 ```
 
 2. Install required dependencies:
